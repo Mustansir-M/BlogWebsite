@@ -1,3 +1,21 @@
+Highlights:
+
+->Made use of React Quill library
+
+->Multer to handle file uploads
+
+->Encryption through bcrypt
+
+->Glassmorphism Login & Register Form
+
+->Login, Register, Create, Edit Post
+
+![Screenshot 2023-06-12 125829](https://github.com/Mustansir-M/BlogWebsite/assets/102173635/fe092295-115c-4fd3-8913-4753c036d9f8)
+![Screenshot 2023-06-12 125856](https://github.com/Mustansir-M/BlogWebsite/assets/102173635/7329094e-8780-4fd4-9676-ebff7b0f9293)
+![Screenshot 2023-06-12 125923](https://github.com/Mustansir-M/BlogWebsite/assets/102173635/19935c22-a5cb-4ad9-b882-3ce2325d7e04)
+![Screenshot 2023-06-12 125937](https://github.com/Mustansir-M/BlogWebsite/assets/102173635/2e470df3-4018-4283-a4fa-3b527f093ae7)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
